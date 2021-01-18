@@ -1,0 +1,1 @@
+java -jar technicserver-all-2.0.2-rc2.jar
